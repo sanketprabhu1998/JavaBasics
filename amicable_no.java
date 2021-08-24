@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class amicable_no
+class amicable_no 
 {
     public static void main(String args[])
     {
